@@ -4131,7 +4131,7 @@ video.unrulymedia.com, 7491264956381456664, RESELLER
 video.unrulymedia.com, 749958898, RESELLER
 video.unrulymedia.com, 753026433, DIRECT
 video.unrulymedia.com, 767529658, RESELLER
-video.unrulymedia.com, 7705822574822711204, RESELLER
+video.unrulymedia.com, 7705822574822711204, DIRECT
 video.unrulymedia.com, 776418614052335749, RESELLER
 video.unrulymedia.com, 806587074, RESELLER
 video.unrulymedia.com, 806729787, DIRECT
