@@ -120,8 +120,10 @@ appnexus.com, 11010, RESELLER
 appnexus.com, 11097, RESELLER
 appnexus.com, 11111, RESELLER
 appnexus.com, 11153, RESELLER
+appnexus.com, 11175, RESELLER
 appnexus.com, 11187, RESELLER
 appnexus.com, 11199, DIRECT
+appnexus.com, 11264, RESELLER
 appnexus.com, 11310, DIRECT
 appnexus.com, 11316, DIRECT
 appnexus.com, 11338, DIRECT
@@ -304,6 +306,7 @@ appnexus.com, 15980, RESELLER
 appnexus.com, 16007, RESELLER
 appnexus.com, 16009, DIRECT
 appnexus.com, 1608, RESELLER
+appnexus.com, 1624, RESELLER
 appnexus.com, 16332, DIRECT
 appnexus.com, 16582, RESELLER
 appnexus.com, 16595, RESELLER
@@ -358,7 +361,6 @@ appnexus.com, 3360, RESELLER
 appnexus.com, 3364, RESELLER
 appnexus.com, 3500, RESELLER
 appnexus.com, 3531, RESELLER
-appnexus.com, 3538, RESELLER
 appnexus.com, 3552, DIRECT
 appnexus.com, 3584, RESELLER
 appnexus.com, 3663, RESELLER
@@ -497,12 +499,15 @@ beachfront.com, 13364, DIRECT
 beachfront.com, 13460, DIRECT
 beachfront.com, 13460, RESELLER
 beachfront.com, 13643, DIRECT
+beachfront.com, 13732, RESELLER
 beachfront.com, 13749, RESELLER
 beachfront.com, 13920, DIRECT
 beachfront.com, 13920, RESELLER
 beachfront.com, 13963, DIRECT
 beachfront.com, 13981, DIRECT
 beachfront.com, 13994, RESELLER
+beachfront.com, 14004, DIRECT
+beachfront.com, 14004, RESELLER
 beachfront.com, 14013, RESELLER
 beachfront.com, 14027, RESELLER
 beachfront.com, 14098, DIRECT
@@ -656,7 +661,7 @@ criteo.com, B-061417, DIRECT
 criteo.com, B-062041, RESELLER
 criteo.com, B-062058, DIRECT
 criteo.com, B-062125, DIRECT
-criteo.com, b-064763, RESELLER
+criteo.com, B-064763, RESELLER
 criteo.com, B-067925, RESELLER
 criteo.com, B-068458, RESELLER
 criteo.com, B-068503, RESELLER
@@ -678,6 +683,8 @@ freewheel.tv, 1011137, DIRECT
 freewheel.tv, 1011137, RESELLER
 freewheel.tv, 1012369, DIRECT
 freewheel.tv, 1012369, RESELLER
+freewheel.tv, 1014769, DIRECT
+freewheel.tv, 1014785, RESELLER
 freewheel.tv, 1018113, RESELLER
 freewheel.tv, 1024817, DIRECT
 freewheel.tv, 1025057, DIRECT
@@ -686,6 +693,8 @@ freewheel.tv, 1025137, DIRECT
 freewheel.tv, 1025153, RESELLER
 freewheel.tv, 1032001, RESELLER
 freewheel.tv, 1033713, RESELLER
+freewheel.tv, 1055569, DIRECT
+freewheel.tv, 1055953, RESELLER
 freewheel.tv, 1064705, RESELLER
 freewheel.tv, 1086097, DIRECT
 freewheel.tv, 1087169, RESELLER
@@ -698,6 +707,8 @@ freewheel.tv, 1099681, DIRECT
 freewheel.tv, 1099729, RESELLER
 freewheel.tv, 1106481, DIRECT
 freewheel.tv, 1106497, RESELLER
+freewheel.tv, 1108305, DIRECT
+freewheel.tv, 1108673, RESELLER
 freewheel.tv, 1118145, DIRECT
 freewheel.tv, 1118289, DIRECT
 freewheel.tv, 1118993, DIRECT
@@ -722,6 +733,8 @@ freewheel.tv, 1120145, RESELLER
 freewheel.tv, 112214, DIRECT
 freewheel.tv, 112214, RESELLER
 freewheel.tv, 112214-523319, DIRECT
+freewheel.tv, 1123713, RESELLER
+freewheel.tv, 1123729, RESELLER
 freewheel.tv, 1124593, RESELLER
 freewheel.tv, 1133073, RESELLER
 freewheel.tv, 1134689, RESELLER
@@ -741,6 +754,8 @@ freewheel.tv, 1143489-524565, DIRECT
 freewheel.tv, 1145057, RESELLER
 freewheel.tv, 1145073, RESELLER
 freewheel.tv, 1146753, RESELLER
+freewheel.tv, 1147521, RESELLER
+freewheel.tv, 1148001, RESELLER
 freewheel.tv, 1150305, DIRECT
 freewheel.tv, 1150305, RESELLER
 freewheel.tv, 1150321, RESELLER
@@ -810,6 +825,8 @@ freewheel.tv, 1192255, RESELLER
 freewheel.tv, 1192271, RESELLER
 freewheel.tv, 1192287, RESELLER
 freewheel.tv, 1192303, RESELLER
+freewheel.tv, 1192767, RESELLER
+freewheel.tv, 1192799, RESELLER
 freewheel.tv, 1196895, RESELLER
 freewheel.tv, 1196911, RESELLER
 freewheel.tv, 1197375, DIRECT
@@ -1275,7 +1292,6 @@ freewheel.tv, 1581801, RESELLER
 freewheel.tv, 1585268, DIRECT
 freewheel.tv, 1585279, RESELLER
 freewheel.tv, 1585433, DIRECT
-freewheel.tv, 1585433, RESELLER
 freewheel.tv, 1585434, RESELLER
 freewheel.tv, 1585652, RESELLER
 freewheel.tv, 1585681, RESELLER
@@ -1402,6 +1418,10 @@ freewheel.tv, 1599735, DIRECT
 freewheel.tv, 1599768, RESELLER
 freewheel.tv, 1599769, DIRECT
 freewheel.tv, 1599775, RESELLER
+freewheel.tv, 1600026, DIRECT
+freewheel.tv, 1600027, DIRECT
+freewheel.tv, 1600027-169843, DIRECT
+freewheel.tv, 1600027-524565, DIRECT
 freewheel.tv, 1600180, RESELLER
 freewheel.tv, 1600214, RESELLER
 freewheel.tv, 1600241, RESELLER
@@ -1588,6 +1608,7 @@ freewheel.tv, 1608888, RESELLER
 freewheel.tv, 1608891, RESELLER
 freewheel.tv, 1608892, RESELLER
 freewheel.tv, 1608896, RESELLER
+freewheel.tv, 1608896-524565, RESELLER
 freewheel.tv, 1608921, RESELLER
 freewheel.tv, 1608925, DIRECT
 freewheel.tv, 1608925, RESELLER
@@ -1744,6 +1765,8 @@ freewheel.tv, 530362, DIRECT
 freewheel.tv, 530362-523319, DIRECT
 freewheel.tv, 530725, RESELLER
 freewheel.tv, 530726, RESELLER
+freewheel.tv, 531095-d-523319, DIRECT
+freewheel.tv, 531095-r-523319, RESELLER
 freewheel.tv, 531516, DIRECT
 freewheel.tv, 531516, RESELLER
 freewheel.tv, 531516 - 523319, DIRECT
@@ -1800,13 +1823,16 @@ freewheel.tv, 534470-r-523319, RESELLER
 freewheel.tv, 534481-d-169843, DIRECT
 freewheel.tv, 534481-d-523319, DIRECT
 freewheel.tv, 534481-d-524565, DIRECT
+freewheel.tv, 534482-d-169843, DIRECT
+freewheel.tv, 534482-d-523319, DIRECT
+freewheel.tv, 534482-d-524565, DIRECT
 freewheel.tv, 534600-d-523319, DIRECT
 freewheel.tv, 534600-d-524565, DIRECT
 freewheel.tv, 534601-d-523319, DIRECTÂ Â Â
 freewheel.tv, 534601-d-524565, DIRECT
 freewheel.tv, 534607-d-169843, DIRECT
 freewheel.tv, 534607-d-523319, DIRECT
-freewheel.tv, 534609-d-524565, DIRECT
+freewheel.tv, 534607-d-524565, DIRECT
 freewheel.tv, 534963-r-523319, RESELLER
 freewheel.tv, 534963-r-524565, RESELLER
 freewheel.tv, 534969-r-523319, RESELLER
@@ -1897,6 +1923,8 @@ freewheel.tv, 536100-r-523319, RESELLER
 freewheel.tv, 536100-r-524565, RESELLER
 freewheel.tv, 536104-r-523319, RESELLER
 freewheel.tv, 536104-r-524565, RESELLER
+freewheel.tv, 536106-r-523319, RESELLER
+freewheel.tv, 536106-r-524565, RESELLER
 freewheel.tv, 536112-d-523319, DIRECT
 freewheel.tv, 536112-d-524565, DIRECT
 freewheel.tv, 536115-r-523319, RESELLER
@@ -2011,6 +2039,8 @@ freewheel.tv, 995265, RESELLER
 freewheel.tv, sg 1246881, DIRECT
 freewheel.tv, sg 1247971, DIRECT
 freewheel.tv, sg 1248060, RESELLER
+freewheel.tv, sg1204277, DIRECT
+freewheel.tv, sg1204277-523319, DIRECT
 freewheel.tv, sg1217511, DIRECT
 freewheel.tv, sg1217511, RESELLER
 freewheel.tv, sg1217511-523319, DIRECT
@@ -2035,6 +2065,7 @@ freewheel.tv, sg1244553-523319, RESELLER
 freewheel.tv, sg1246070, DIRECT
 freewheel.tv, sg1246124, RESELLER
 freewheel.tv, sg1246440, DIRECT
+freewheel.tv, sg1246451, DIRECT
 freewheel.tv, sg1246877, DIRECT
 freewheel.tv, sg1246892, DIRECT
 freewheel.tv, sg1246892-d-524565, DIRECT
@@ -2093,6 +2124,7 @@ freewheel.tv, sg1257810, RESELLER
 freewheel.tv, sg1257985, DIRECT
 freewheel.tv, sg1258223, RESELLER
 freewheel.tv, sg1258282, RESELLER
+freewheel.tv, sg1258329, RESELLER
 freewheel.tv, sg1258347, DIRECT
 freewheel.tv, sg1258360, DIRECT
 freewheel.tv, sg1258368, RESELLER
@@ -2114,6 +2146,7 @@ google.com, 9093936100328871, RESELLER
 google.com, pub-0135347699791313, DIRECT
 google.com, pub-0227480467683561, DIRECT
 google.com, pub-0237151758727671, DIRECT
+google.com, pub-0390894285730164, DIRECT
 google.com, pub-0627101520158699, DIRECT
 google.com, pub-0627101520158699, RESELLER
 google.com, pub-0796790890307838, RESELLER
@@ -2140,6 +2173,7 @@ google.com, pub-1407620303504566, DIRECT
 google.com, pub-1420539090378627, RESELLER
 google.com, pub-1427805825892953, RESELLER
 google.com, pub-1439479630886608, DIRECT
+google.com, pub-1439479630886608, RESELLER
 google.com, pub-1463455084986126, RESELLER
 google.com, pub-1466027582507864, DIRECT
 google.com, pub-1490961421801363, RESELLER
@@ -2172,6 +2206,7 @@ google.com, pub-1991679624331369, DIRECT
 google.com, pub-1991679624331369, RESELLER
 google.com, pub-1993377309099339, DIRECT
 google.com, pub-2036275213088973, DIRECT
+google.com, pub-2036275213088973, RESELLER
 google.com, pub-2053057622751661, DIRECT
 google.com, pub-2108208666674759, RESELLER
 google.com, pub-2127333773716092, RESELLER
@@ -2240,6 +2275,7 @@ google.com, pub-3494520468788589, RESELLER
 google.com, pub-3519627678776838, RESELLER
 google.com, pub-3565385483761681, DIRECT
 google.com, pub-3565385483761681, RESELLER
+google.com, pub-3634278828344684, DIRECT
 google.com, pub-3677668629134422, RESELLER
 google.com, pub-3706908978506417, DIRECT
 google.com, pub-3706908978506417, RESELLER
@@ -2297,6 +2333,7 @@ google.com, pub-5041886492880162, RESELLER
 google.com, pub-5060663379040713, DIRECT
 google.com, pub-5112810386375450, DIRECT
 google.com, pub-5192618204358860, RESELLER
+google.com, pub-5229880663680066, DIRECT
 google.com, pub-5277220845182366, DIRECT
 google.com, pub-5278973888786334, RESELLER
 google.com, pub-5289985627731322, RESELLER
@@ -2413,13 +2450,13 @@ google.com, pub-7538555282033458, RESELLER
 google.com, pub-7558566221680928, DIRECT
 google.com, pub-7618761136931340, DIRECT
 google.com, pub-7620071422727774, RESELLER
+google.com, pub-7661599293481746, RESELLER
 google.com, pub-7734005103835923, DIRECT
 google.com, pub-7734005103835923, RESELLER
 google.com, pub-7752612496791995, DIRECT
 google.com, pub-7756262923332577, RESELLER
 google.com, pub-7797395538628982, DIRECT
 google.com, pub-7851283497143060, DIRECT
-google.com, pub-7851283497143060, RESELLER
 google.com, pub-7858377917172490, RESELLER
 google.com, pub-7876384533791804, DIRECT
 google.com, pub-7894446201957923, DIRECT
@@ -2530,6 +2567,7 @@ gumgum.com, 11602, DIRECT
 gumgum.com, 11645, RESELLER
 gumgum.com, 12222, DIRECT
 gumgum.com, 12991, RESELLER
+gumgum.com, 13085, RESELLER
 gumgum.com, 13344, RESELLER
 gumgum.com, 13579, DIRECT
 gumgum.com, 13615, RESELLER
@@ -2619,6 +2657,7 @@ improvedigital.com, 1693, DIRECT
 improvedigital.com, 1698, DIRECT
 improvedigital.com, 1699, RESELLER
 improvedigital.com, 1708, RESELLER
+improvedigital.com, 1716, RESELLER
 improvedigital.com, 1720, RESELLER
 improvedigital.com, 1734, RESELLER
 improvedigital.com, 1735, RESELLER
@@ -2726,6 +2765,7 @@ improvedigital.com, 2545, RESELLER
 improvedigital.com, 2549, RESELLER
 improvedigital.com, 2553, RESELLER
 improvedigital.com, 2556, RESELLER
+improvedigital.com, 2566, RESELLER
 improvedigital.com, 2570, RESELLER
 improvedigital.com, 2575, RESELLER
 improvedigital.com, 2577, DIRECT
@@ -2749,7 +2789,6 @@ improvedigital.com, 2635, DIRECT
 improvedigital.com, 2647, RESELLER
 improvedigital.com, 2648, DIRECT
 improvedigital.com, 2648, RESELLER
-improvedigital.com, 335, RESELLER
 improvedigital.com, 545, RESELLER
 improvedigital.com, 849, RESELLER
 improvedigital.com, 905, RESELLER
@@ -3097,6 +3136,7 @@ indexexchange.com, 209791, DIRECT
 indexexchange.com, 209906, DIRECT
 indexexchange.com, 209963, DIRECT
 indexexchange.com, 210016, DIRECT
+indexexchange.com, 210073, DIRECT
 indexexchange.com, 210423, DIRECT
 indexexchange.com, 210571, DIRECT
 indexexchange.com, 211002, DIRECT
@@ -3108,6 +3148,7 @@ indexexchange.com, 212222, DIRECT
 indexexchange.com, 213439, DIRECT
 indexexchange.com, 213599, DIRECT
 indexexchange.com, DIRECT, 50B1C356F2C5C8FC
+nativo.com, 5322, DIRECT
 nativo.com, 5637, RESELLER
 nativo.com, 5655, DIRECT
 nativo.com, 5711, RESELLER
@@ -3191,6 +3232,7 @@ openx.com, 539496816, RESELLER
 openx.com, 539615818, DIRECT
 openx.com, 539624483, RESELLER
 openx.com, 539625136, RESELLER
+openx.com, 539635783, RESELLER
 openx.com, 539699341, DIRECT
 openx.com, 539708628, RESELLER
 openx.com, 539872073, DIRECT
@@ -3239,6 +3281,7 @@ openx.com, 540323914, RESELLER
 openx.com, 540338038, RESELLER
 openx.com, 540362110, RESELLER
 openx.com, 540362347, RESELLER
+openx.com, 540382648, RESELLER
 openx.com, 540393169, RESELLER
 openx.com, 540401713, RESELLER
 openx.com, 540406323, RESELLER
@@ -3258,6 +3301,7 @@ openx.com, 540632955, RESELLER
 openx.com, 540634629, DIRECT
 openx.com, 540634634, DIRECT
 openx.com, 540634634, RESELLER
+openx.com, 540634642, DIRECT
 openx.com, 540634764, DIRECT
 openx.com, 540634772, RESELLER
 openx.com, 540656657, DIRECT
@@ -3294,6 +3338,7 @@ openx.com, 540899687, RESELLER
 openx.com, 540907483, DIRECT
 openx.com, 540922801, DIRECT
 openx.com, 540922801, RESELLER
+openx.com, 540968136, RESELLER
 openx.com, 540999880, RESELLER
 openx.com, 541013962, DIRECT
 openx.com, 541013962, RESELLER
@@ -3377,6 +3422,7 @@ openx.com, 559077115, DIRECT
 openx.com, 559091134, DIRECT
 openx.com, 559091134, RESELLER
 openx.com, 559092217, DIRECT
+openx.com, 559092217, RESELLER
 openx.com, 559092417, DIRECT
 openx.com, 559092417, RESELLER
 openx.com, 559104699, DIRECT
@@ -3391,9 +3437,12 @@ openx.com, 559462164, DIRECT
 openx.com, 559466726, RESELLER
 openx.com, 559526734, DIRECT
 openx.com, 559526734, RESELLER
+openx.com, 559529177, DIRECT
+openx.com, 559529191, DIRECT
 openx.com, 559546846, DIRECT
 openx.com, 559553230, DIRECT
 openx.com, 559596793, DIRECT
+openx.com, 559601858, DIRECT
 openx.com, 559612253, DIRECT
 openx.com, 559612253, RESELLER
 openx.com, 559624170, DIRECT
@@ -3439,6 +3488,7 @@ openx.com, 561126155, DIRECT
 openx.com, 561148794, DIRECT
 openx.com, 561214869, RESELLER
 openx.com, 561226811, DIRECT
+openx.com, 561230832, DIRECT
 openx.com, 561243620, RESELLER
 openx.com, 561324294, RESELLER
 openx.com, 561324442, DIRECT
@@ -3469,6 +3519,7 @@ openx.com, 563665163, DIRECT
 openx.com, 563701590, DIRECT
 openx.com, 563709880, DIRECT
 openx.com, 563839053, DIRECT
+openx.com, 563865756, DIRECT
 openx.com, DIRECT, 6A698E2EC38604C6
 pubmatic.com, 114634, DIRECT
 pubmatic.com, 120391, RESELLER
@@ -3657,6 +3708,7 @@ pubmatic.com, 158484, DIRECT
 pubmatic.com, 158486, DIRECT
 pubmatic.com, 158493, RESELLER
 pubmatic.com, 158524, RESELLER
+pubmatic.com, 158535, DIRECT
 pubmatic.com, 158549, DIRECT
 pubmatic.com, 158554, RESELLER
 pubmatic.com, 158565, RESELLER
@@ -3697,6 +3749,7 @@ pubmatic.com, 159313, DIRECT
 pubmatic.com, 159319, DIRECT
 pubmatic.com, 159344, DIRECT
 pubmatic.com, 159345, DIRECT
+pubmatic.com, 159345, RESELLER
 pubmatic.com, 159382, RESELLER
 pubmatic.com, 159396, DIRECT
 pubmatic.com, 159396, RESELLER
@@ -4048,6 +4101,7 @@ pubmatic.com, 163319, RESELLER
 pubmatic.com, 163339, DIRECT
 pubmatic.com, 163347, RESELLER
 pubmatic.com, 163352, DIRECT
+pubmatic.com, 163366, DIRECT
 pubmatic.com, 163370, RESELLER
 pubmatic.com, 163387, RESELLER
 pubmatic.com, 163389, DIRECT
@@ -4265,6 +4319,7 @@ pubmatic.com, 166909, RESELLER
 pubmatic.com, 166975, DIRECT
 pubmatic.com, 167028, DIRECT
 pubmatic.com, 27495, RESELLER
+pubmatic.com, 28415, RESELLER
 pubmatic.com, 32987, RESELLER
 pubmatic.com, 57728, RESELLER
 pubmatic.com, 60809, RESELLER
@@ -4279,6 +4334,7 @@ rhythmone.com, 1022945102, DIRECT
 rhythmone.com, 102671, DIRECT
 rhythmone.com, 102973855, DIRECT
 rhythmone.com, 1039922603, DIRECT
+rhythmone.com, 1046135518, DIRECT
 rhythmone.com, 1058378980, DIRECT
 rhythmone.com, 1058378980, RESELLER
 rhythmone.com, 1059622079, RESELLER
@@ -4382,6 +4438,7 @@ rhythmone.com, 3526474056, RESELLER
 rhythmone.com, 3611299104, RESELLER
 rhythmone.com, 367782854, DIRECT
 rhythmone.com, 3690658294, DIRECT
+rhythmone.com, 3690658294, RESELLER
 rhythmone.com, 3737228545, DIRECT
 rhythmone.com, 3751985810, DIRECT
 rhythmone.com, 3753918329, DIRECT
@@ -4463,6 +4520,7 @@ rubiconproject.com, 13702, RESELLER
 rubiconproject.com, 13732, RESELLER
 rubiconproject.com, 13762, DIRECT
 rubiconproject.com, 13762, RESELLER
+rubiconproject.com, 13788, RESELLER
 rubiconproject.com, 13856, RESELLER
 rubiconproject.com, 13894, DIRECT
 rubiconproject.com, 13894, RESELLER
@@ -4630,6 +4688,7 @@ rubiconproject.com, 21998, DIRECT
 rubiconproject.com, 22028, DIRECT
 rubiconproject.com, 22028, RESELLER
 rubiconproject.com, 22090, DIRECT
+rubiconproject.com, 22152, RESELLER
 rubiconproject.com, 22324, DIRECT
 rubiconproject.com, 22326, RESELLER
 rubiconproject.com, 22328, DIRECT
@@ -4847,6 +4906,7 @@ sharethrough.com, 3e2ba63f, RESELLER
 sharethrough.com, 3EmN8oQH, RESELLER
 sharethrough.com, 3JEtVkLn, RESELLER
 sharethrough.com, 49574e61, RESELLER
+sharethrough.com, 4aa37fe0, DIRECT
 sharethrough.com, 5089, DIRECT
 sharethrough.com, 5096, DIRECT
 sharethrough.com, 5099, DIRECT
@@ -5086,7 +5146,7 @@ sharethrough.com, YEPpBJpd, RESELLER
 sharethrough.com, YGlF2Cwm, DIRECT
 sharethrough.com, YJAbeVRT, DIRECT
 sharethrough.com, yXPpfvLB, RESELLER
-sharethrough.com, yyfdsr3y, RESELLER
+sharethrough.com, YYFDsr3Y, RESELLER
 sharethrough.com, z3cxTXI4, DIRECT
 sharethrough.com, zc37VvUn, DIRECT
 sharethrough.com, zLsEa05k, RESELLER
@@ -5126,6 +5186,7 @@ smartadserver.com, 3039, RESELLER
 smartadserver.com, 3050, DIRECT
 smartadserver.com, 3050, RESELLER
 smartadserver.com, 3056, RESELLER
+smartadserver.com, 3112, RESELLER
 smartadserver.com, 3117, RESELLER
 smartadserver.com, 3129, RESELLER
 smartadserver.com, 3160, RESELLER
@@ -5146,6 +5207,7 @@ smartadserver.com, 3392, RESELLER
 smartadserver.com, 3412, DIRECT
 smartadserver.com, 3412-OB, RESELLER
 smartadserver.com, 3436, RESELLER
+smartadserver.com, 3439, RESELLER
 smartadserver.com, 3447, DIRECT
 smartadserver.com, 3453, RESELLER
 smartadserver.com, 3459, RESELLER
@@ -5178,6 +5240,7 @@ smartadserver.com, 3756, DIRECT
 smartadserver.com, 3756-OB, RESELLER
 smartadserver.com, 3785, RESELLER
 smartadserver.com, 3785-OB, RESELLER
+smartadserver.com, 3801, DIRECT
 smartadserver.com, 3817, RESELLER
 smartadserver.com, 3820, RESELLER
 smartadserver.com, 3829, DIRECT
@@ -5232,7 +5295,7 @@ smartadserver.com, 4164, RESELLER
 smartadserver.com, 4164-OB, RESELLER
 smartadserver.com, 4167, RESELLER
 smartadserver.com, 4173, RESELLER
-smartadserver.com, 4173-ob, RESELLER
+smartadserver.com, 4173-OB, RESELLER
 smartadserver.com, 4194, RESELLER
 smartadserver.com, 4194-OB, RESELLER
 smartadserver.com, 4196, DIRECT
@@ -5483,6 +5546,7 @@ teads.tv, 25953, DIRECT
 teads.tv, 26041, DIRECT
 teads.tv, 26041, RESELLER
 teads.tv, 26197, DIRECT
+teads.tv, 26225, DIRECT
 teads.tv, 26340, DIRECT
 teads.tv, 26355, DIRECT
 teads.tv, 26390, RESELLER
@@ -5506,7 +5570,9 @@ teads.tv, 28938, DIRECT
 teads.tv, 28938, RESELLER
 teads.tv, 28993, DIRECT
 teads.tv, 29044, DIRECT
+teads.tv, 29281, DIRECT
 teads.tv, 29289, DIRECT
+teads.tv, 29296, DIRECT
 teads.tv, 29489, RESELLER
 teads.tv, 29578, DIRECT
 teads.tv, 29602, DIRECT
@@ -5550,6 +5616,7 @@ telaria.com, 19flt-jyvyk, DIRECT
 telaria.com, 19flt-l5wlr, DIRECT
 telaria.com, 19flt-plgqq, DIRECT
 telaria.com, 19flt-tg37u, DIRECT
+telaria.com, 19flt-vk0uh, DIRECT
 telaria.com, 1a4e959a1b50034a, RESELLER
 telaria.com, 1deq6-4f56z, RESELLER
 telaria.com, 1deq6-pelqg, RESELLER
@@ -5561,6 +5628,7 @@ telaria.com, 2auap-1bp7a, DIRECT
 telaria.com, 2auap-30tx1, DIRECT
 telaria.com, 2auap-45web, DIRECT
 telaria.com, 2auap-45web, RESELLER
+telaria.com, 2auap-b45ji, DIRECT
 telaria.com, 2auap-ez7jb, DIRECT
 telaria.com, 2auap-gmpfv, DIRECT
 telaria.com, 2auap-ich32, DIRECT
@@ -5632,6 +5700,7 @@ telaria.com, 8jhse-ifyq9, DIRECT
 telaria.com, 8jhse-ifyq9, RESELLER
 telaria.com, 8v38r-3d2u2, RESELLER
 telaria.com, 90zw2, DIRECT
+telaria.com, 9a6ww-oxu0n, RESELLER
 telaria.com, 9aa52-h9qe6, RESELLER
 telaria.com, 9aa52-jk3yy, RESELLER
 telaria.com, 9aa52-k4z0j, RESELLER
@@ -5661,6 +5730,7 @@ telaria.com, 9l6ha-j74jl, RESELLER
 telaria.com, 9l6ha-lbwbw, RESELLER
 telaria.com, 9l6ha-mn0kz, RESELLER
 telaria.com, 9l6ha-n66r7, RESELLER
+telaria.com, 9l6ha-ov0k1, RESELLER
 telaria.com, 9l6ha-qqx12, RESELLER
 telaria.com, 9l6ha-vc8nx, RESELLER
 telaria.com, 9l6ha-vxap2, RESELLER
@@ -5722,6 +5792,7 @@ telaria.com, d7l1k-wqdrh, RESELLER
 telaria.com, dh0hx-dxhul, DIRECT
 telaria.com, dh0hx-dxhul, RESELLER
 telaria.com, dh0hx-xrda2, RESELLER
+telaria.com, dh9pi-wt3ud, DIRECT
 telaria.com, dix75-1lxhm, DIRECT
 telaria.com, dix75-7m8qr, DIRECT
 telaria.com, dix75-d7jjq, RESELLER
@@ -5808,6 +5879,7 @@ telaria.com, m8r1c-8amr4, DIRECT
 telaria.com, m8r1c-ay7zb, DIRECT
 telaria.com, m8r1c-c8a6x, DIRECT
 telaria.com, m8r1c-e1osi, DIRECT
+telaria.com, m8r1c-en9fi, DIRECT
 telaria.com, m8r1c-fko5e, RESELLER
 telaria.com, m8r1c-htom8, DIRECT
 telaria.com, m8r1c-jgojj, DIRECT
@@ -5911,6 +5983,10 @@ telaria.com, vtrdn-ysjam, DIRECT
 telaria.com, vtrdn-ysjam, RESELLER
 telaria.com, vzjla-e3gj6, DIRECT
 telaria.com, w0pz3-h98vw, RESELLER
+telaria.com, wi6s5-0j154, DIRECT
+telaria.com, wi6s5-0j154, RESELLER
+telaria.com, wi6s5-2x3le, RESELLER
+telaria.com, wi6s5-8gw5c, RESELLER
 telaria.com, wr0iy-pluig, DIRECT
 telaria.com, x7rw5-eh5yl, DIRECT
 telaria.com, x7rw5-vy2kc, DIRECT
@@ -5948,6 +6024,7 @@ themediagrid.com, 6XQDPZ, DIRECT
 themediagrid.com, 743KGM, DIRECT
 themediagrid.com, 743KGM, RESELLER
 themediagrid.com, 7ODXQS, DIRECT
+themediagrid.com, 8H4IY1, DIRECT
 themediagrid.com, 8RYHC4, DIRECT
 themediagrid.com, 8W19OH, DIRECT
 themediagrid.com, 8ZRKBE, RESELLER
@@ -6008,7 +6085,7 @@ themediagrid.com, NB56PT, RESELLER
 themediagrid.com, NFHIKQ, DIRECT
 themediagrid.com, NGTYF8, DIRECT
 themediagrid.com, NGTYF8, RESELLER
-themediagrid.com, NJ9LGR, RESELLER
+themediagrid.com, nj9lgr, RESELLER
 themediagrid.com, NKYJ1T, RESELLER
 themediagrid.com, NOWAB9, DIRECT
 themediagrid.com, NQYVLE, DIRECT
@@ -6055,6 +6132,7 @@ themediagrid.com, WHDP85, DIRECT
 themediagrid.com, XBYGOC, RESELLER
 themediagrid.com, XC93NY, RESELLER
 themediagrid.com, XCD3P1, DIRECT
+themediagrid.com, YEV94Z, DIRECT
 themediagrid.com, YZ5SWC, RESELLER
 themediagrid.com, ZA2VPO, RESELLER
 themediagrid.com, ZG1DBN, RESELLER
@@ -6081,6 +6159,7 @@ tremorhub.com, 19flt-jyvyk, DIRECT
 tremorhub.com, 19flt-l5wlr, DIRECT
 tremorhub.com, 19flt-plgqq, DIRECT
 tremorhub.com, 19flt-tg37u, DIRECT
+tremorhub.com, 19flt-vk0uh, DIRECT
 tremorhub.com, 1a4e959a1b50034a, RESELLER
 tremorhub.com, 1deq6-4f56z, RESELLER
 tremorhub.com, 1deq6-fpk8b, RESELLER
@@ -6094,6 +6173,7 @@ tremorhub.com, 2auap-1bp7a, DIRECT
 tremorhub.com, 2auap-30tx1, DIRECT
 tremorhub.com, 2auap-45web, DIRECT
 tremorhub.com, 2auap-45web, RESELLER
+tremorhub.com, 2auap-b45ji, DIRECT
 tremorhub.com, 2auap-ez7jb, DIRECT
 tremorhub.com, 2auap-gmpfv, DIRECT
 tremorhub.com, 2auap-ich32, DIRECT
@@ -6166,6 +6246,7 @@ tremorhub.com, 8jhse-ifyq9, DIRECT
 tremorhub.com, 8jhse-ifyq9, RESELLER
 tremorhub.com, 8v38r-3d2u2, RESELLER
 tremorhub.com, 90zw2, DIRECT
+tremorhub.com, 9a6ww-oxu0n, RESELLER
 tremorhub.com, 9aa52-h9qe6, RESELLER
 tremorhub.com, 9aa52-jk3yy, RESELLER
 tremorhub.com, 9aa52-k4z0j, RESELLER
@@ -6195,6 +6276,7 @@ tremorhub.com, 9l6ha-j74jl, RESELLER
 tremorhub.com, 9l6ha-lbwbw, RESELLER
 tremorhub.com, 9l6ha-mn0kz, RESELLER
 tremorhub.com, 9l6ha-n66r7, RESELLER
+tremorhub.com, 9l6ha-ov0k1, RESELLER
 tremorhub.com, 9l6ha-qqx12, RESELLER
 tremorhub.com, 9l6ha-vc8nx, RESELLER
 tremorhub.com, 9l6ha-vt9j5, RESELLER
@@ -6258,6 +6340,7 @@ tremorhub.com, d7l1k-wqdrh, RESELLER
 tremorhub.com, dh0hx-dxhul, DIRECT
 tremorhub.com, dh0hx-dxhul, RESELLER
 tremorhub.com, dh0hx-xrda2, RESELLER
+tremorhub.com, dh9pi-wt3ud, DIRECT
 tremorhub.com, dix75-1lxhm, DIRECT
 tremorhub.com, dix75-7m8qr, DIRECT
 tremorhub.com, dix75-d7jjq, RESELLER
@@ -6348,6 +6431,7 @@ tremorhub.com, m8r1c-8amr4, DIRECT
 tremorhub.com, m8r1c-ay7zb, DIRECT
 tremorhub.com, m8r1c-c8a6x, DIRECT
 tremorhub.com, m8r1c-e1osi, DIRECT
+tremorhub.com, m8r1c-en9fi, DIRECT
 tremorhub.com, m8r1c-htom8, DIRECT
 tremorhub.com, m8r1c-jgojj, DIRECT
 tremorhub.com, m8r1c-kyw45, DIRECT
@@ -6452,6 +6536,10 @@ tremorhub.com, vtrdn-ysjam, DIRECT
 tremorhub.com, vtrdn-ysjam, RESELLER
 tremorhub.com, vzjla-e3gj6, DIRECT
 tremorhub.com, w0pz3-h98vw, RESELLER
+tremorhub.com, wi6s5-0j154, DIRECT
+tremorhub.com, wi6s5-0j154, RESELLER
+tremorhub.com, wi6s5-2x3le, RESELLER
+tremorhub.com, wi6s5-8gw5c, RESELLER
 tremorhub.com, wr0iy-pluig, DIRECT
 tremorhub.com, x7rw5-eh5yl, DIRECT
 tremorhub.com, x7rw5-vy2kc, DIRECT
@@ -6586,7 +6674,7 @@ triplelift.com, 13781, DIRECT
 triplelift.com, 13781, RESELLER
 triplelift.com, 13783, DIRECT
 triplelift.com, 13806, DIRECT
-﻿triplelift.com, 13899, RESELLER
+triplelift.com, 13899, RESELLER
 triplelift.com, 13903, DIRECT
 triplelift.com, 13907, RESELLER
 triplelift.com, 13922, DIRECT
@@ -6618,6 +6706,7 @@ triplelift.com, 14555, DIRECT
 triplelift.com, 14567, DIRECT
 triplelift.com, 14600, DIRECT
 triplelift.com, 14600, RESELLER
+triplelift.com, 14641, RESELLER
 triplelift.com, 1482, DIRECT
 triplelift.com, 2735, DIRECT
 triplelift.com, 2792, DIRECT
@@ -6718,6 +6807,7 @@ triplelift.com, 7975, DIRECT
 triplelift.com, 7975-EB, DIRECT
 triplelift.com, 8085, DIRECT
 triplelift.com, 8114, DIRECT
+triplelift.com, 8161, DIRECT
 triplelift.com, 8183, RESELLER
 triplelift.com, 8210, RESELLER
 triplelift.com, 8263, DIRECT
@@ -6796,6 +6886,7 @@ video.unrulymedia.com, 101943989, DIRECT
 video.unrulymedia.com, 1021095649, DIRECT
 video.unrulymedia.com, 102671, DIRECT
 video.unrulymedia.com, 1039922603, DIRECT
+video.unrulymedia.com, 1046135518, DIRECT
 video.unrulymedia.com, 1058378980, DIRECT
 video.unrulymedia.com, 1058378980, RESELLER
 video.unrulymedia.com, 1060189675, DIRECT
@@ -7012,6 +7103,7 @@ video.unrulymedia.com, 366184744, RESELLER
 video.unrulymedia.com, 367782854, DIRECT
 video.unrulymedia.com, 367782854, RESELLER
 video.unrulymedia.com, 3690658294, DIRECT
+video.unrulymedia.com, 3690658294, RESELLER
 video.unrulymedia.com, 3704396951, RESELLER
 video.unrulymedia.com, 3728224204249146186, RESELLER
 video.unrulymedia.com, 3737228545, DIRECT
@@ -7146,6 +7238,7 @@ video.unrulymedia.com, 753026433, DIRECT
 video.unrulymedia.com, 755267463, DIRECT
 video.unrulymedia.com, 755267463, RESELLER
 video.unrulymedia.com, 756992720, RESELLER
+video.unrulymedia.com, 757359574, DIRECT
 video.unrulymedia.com, 7575462025446190623, RESELLER
 video.unrulymedia.com, 758976735, DIRECT
 video.unrulymedia.com, 759049503, RESELLER
@@ -7199,6 +7292,7 @@ video.unrulymedia.com, 941705414, RESELLER
 video.unrulymedia.com, 946176315, RESELLER
 video.unrulymedia.com, 947386756, RESELLER
 video.unrulymedia.com, 956802361, RESELLER
+video.unrulymedia.com, 974688711, PUBLISHER
 video.unrulymedia.com, 979624895, RESELLER
 video.unrulymedia.com, 985572675, DIRECT
 video.unrulymedia.com, 990641882, RESELLER
@@ -7361,7 +7455,32 @@ xandr.com, 994, RESELLER
 xandr.com, 9988, RESELLER
 
 ==== SUMMARY ====
-Total exchange rows: 7356
+Total exchange rows: 7450
 Total partner domains: 138
-Partners fetched: 114
-Partners skipped: 5
+Partners fetched: 116
+Partners skipped (skip list): 5
+Partners skipped (fetch failed): 17
+Partners skipped list (skip list):
+ - americasvoice.news
+ - failarmy.tv
+ - peopleareawesome.tv
+ - thepetcollective.tv
+ - watchstadium.com
+Partners skipped list (fetch failed):
+ - autentic.com
+ - brintv.com.br
+ - crackle.com
+ - docplus.com
+ - evrideo.com
+ - fremantle.com
+ - italianfishingtv.it
+ - journy.tv
+ - morethansports.tv
+ - outsideonline.com
+ - recordnews.com.br
+ - sato.tv.br
+ - smurf.com
+ - sportitalia.com
+ - turistiktv.com.mx
+ - tvaztecainternacional.com
+ - www.offgridcreativecontent.net
