@@ -25,3 +25,36 @@ telaria.com, zw7za-j5a6k, RESELLER, 1a4e959a1b50034a
 tremorhub.com, zw7za-j5a6k, RESELLER, 1a4e959a1b50034a
 telaria.com, 9aa52-p1210, RESELLER, 1a4e959a1b50034a
 tremorhub.com, 9aa52-p1210, RESELLER, 1a4e959a1b50034a
+
+APP-ADS.TXT INFO
+SUCCESS
+spectrum.net
+beachfront.com, 14990, DIRECT, E2541279E8E2CA4D
+freewheel.tv, 376521, DIRECT
+freewheel.tv, 376521-523319, DIRECT
+google.com, pub-2572892207479913, DIRECT, F08C47FEC0942FA0
+indexexchange.com, 207349, DIRECT, 50B1C356F2C5C8FC
+pubmatic.com, 165900, DIRECT, 5D62403B186F2ACE
+telaria.com, 9aa52-p1210, RESELLER, 1A4E959A1B50034A
+telaria.com, 9zqet-gvcxy, DIRECT, 1A4E959A1B50034A
+telaria.com, 9zqet-znmm7, DIRECT, 1A4E959A1B50034A
+telaria.com, jh9i8-0noqr, RESELLER, 1A4E959A1B50034A
+telaria.com, zw7za-j5a6k, RESELLER, 1A4E959A1B50034A
+tremorhub.com, 9aa52-p1210, RESELLER, 1A4E959A1B50034A
+tremorhub.com, 9zqet-gvcxy, DIRECT, 1A4E959A1B50034A
+tremorhub.com, 9zqet-znmm7, DIRECT, 1A4E959A1B50034A
+tremorhub.com, jh9i8-0noqr, RESELLER, 1A4E959A1B50034A
+tremorhub.com, zw7za-j5a6k, RESELLER, 1A4E959A1B50034A
+
+==== SUMMARY ====
+SUCCESS
+Domain: spectrum.net
+Manual rows: 0 (kept 0)
+Auto rows kept (after manual de-dupe): 16
+Total exchange rows written: 16
+Total partner domains: 1
+Partners fetched: 0
+Partners skipped (skip list or same as root): 0
+Partners skipped (fetch failed/empty): 1
+Partners skipped list (fetch failed/empty):
+ - spectrum.com
