@@ -1,3 +1,7 @@
+freewheel.tv, 535275-d-523319, DIRECT
+freewheel.tv, 535275-d-523319, RESELLER
+freewheel.tv, 535262-r-523319, RESELLER
+
 APP-ADS.TXT INFO
 SUCCESS
 directv.com
