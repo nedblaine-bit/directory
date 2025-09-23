@@ -4,7 +4,11 @@ tremorhub.com, oyz9g-qp2v3, DIRECT
 freewheel.tv, 112214-523319, RESELLER
 tremorhub.com, sasxl-5yydr, RESELLER
 freewheel.tv, 520040, RESELLER
-
+appnexxus.com, 13779, RESELLER
+triplelift.com, 3396, RESELLER
+indexexchange.com, 202437, RESELLER
+indexexchange.com, 205322, RESELLER
+openx.com, 545715646, RESELLER
 
 ownerdomain=spectrum.com
 managerdomain=spectrum.com
