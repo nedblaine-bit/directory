@@ -1,6 +1,7 @@
 rhythmone.com, 3823540924, DIRECT
 telaria.com, m67uq-a830k, RESELLER
 video.unrulymedia.com, 904173521, RESELLER
+video.unrulymedia.com, 513389511, DIRECT
 
 APP-ADS.TXT INFO
 SUCCESS
