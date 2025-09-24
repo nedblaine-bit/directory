@@ -1,3 +1,5 @@
+video.unrulymedia.com, 522403382, RESELLER
+
 APP-ADS.TXT INFO
 SUCCESS
 plex.tv
