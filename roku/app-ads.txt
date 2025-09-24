@@ -1,3 +1,6 @@
+video.unrulymedia.com, 513389511, RESELLER
+video.unrulymedia.com, 6869972056128673857, RESELLER
+
 APP-ADS.TXT INFO
 SUCCESS
 roku.com
