@@ -1,4 +1,5 @@
 video.unrulymedia.com, 513389511, DIRECT
+video.unrulymedia.com, 2564526802, RESELLER
 
 APP-ADS.TXT INFO
 
