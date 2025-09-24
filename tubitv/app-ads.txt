@@ -1,6 +1,8 @@
 freewheel.tv, 535082-r-523319, RESELLER
 freewheel.tv, 533475-r-523319, RESELLER
 telaria.com, 2auap-45web, RESELLER, 1A4E959A1B50034A
+video.unrulymedia.com, 513389511, RESELLER
+video.unrulymedia.com, 6869972056128673857, RESELLER
 
 APP-ADS.TXT INFO
 SUCCESS
