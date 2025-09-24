@@ -1,4 +1,5 @@
 video.unrulymedia.com, 522403382, RESELLER
+openx.com, 561711183, DIRECT
 
 APP-ADS.TXT INFO
 SUCCESS
