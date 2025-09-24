@@ -1,3 +1,5 @@
+video.unrulymedia.com, 513389511, DIRECT
+
 APP-ADS.TXT INFO
 
 SUCCESS
