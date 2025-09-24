@@ -1,3 +1,5 @@
+openx.com, 561711183, DIRECT
+
 APP-ADS.TXT INFO
 SUCCESS
 dish.com
