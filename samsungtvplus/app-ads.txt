@@ -1,6 +1,12 @@
 video.unrulymedia.com, 154235949, RESELLER, ONFILE
 freewheel.tv, 535182-d-524565, RESELLER, ONFILE
 pubmatic.com, 166316, RESELLER, ONFILE
+video.unrulymedia.com, 812477208, RESELLER
+video.unrulymedia.com, 502298505, RESELLER
+video.unrulymedia.com, 731910508, RESELLER
+freewheel.tv, 516283-523319, RESELLER
+
+
 
 APP-ADS.TXT INFO
 SUCCESS
@@ -7908,7 +7914,6 @@ video.unrulymedia.com, 472197889, RESELLER
 video.unrulymedia.com, 4915888241011388362, DIRECT
 video.unrulymedia.com, 498216989, RESELLER
 video.unrulymedia.com, 5.67E+08, RESELLER
-video.unrulymedia.com, 502298505, DIRECT
 video.unrulymedia.com, 502298505, RESELLER
 video.unrulymedia.com, 502298505, RESELLER, 6F752381AD5EC0E5
 video.unrulymedia.com, 5056538075200355962, DIRECT
@@ -8026,7 +8031,7 @@ video.unrulymedia.com, 799061815, RESELLER
 video.unrulymedia.com, 8.27E+08, RESELLER
 video.unrulymedia.com, 806587074, RESELLER
 video.unrulymedia.com, 806729787, DIRECT
-video.unrulymedia.com, 812477208, DIRECT
+video.unrulymedia.com, 812477208, RESELLER
 video.unrulymedia.com, 8167205979129043832, DIRECT
 video.unrulymedia.com, 8167205979129043832, RESELLER
 Video.unrulymedia.com, 818869327, RESELLER
