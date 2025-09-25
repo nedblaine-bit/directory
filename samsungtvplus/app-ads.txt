@@ -1,3 +1,6 @@
+video.unrulymedia.com, 154235949, RESELLER, ONFILE
+freewheel.tv, 535182-d-524565, RESELLER, ONFILE
+
 APP-ADS.TXT INFO
 SUCCESS
 samsungtvplus.com
