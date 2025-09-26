@@ -5,9 +5,6 @@ pubmatic.com, 166316, RESELLER, ONFILE
 #FREMANTLE
 appnexus.com, 16952, DIRECT, f5ab79cb980f11d1
 xandr.com, 16952, DIRECT, f5ab79cb980f11d1
-elementaltv.io, 39373518, DIRECT, c67ec7a88426a864
-emxdgt.com, 2627, DIRECT, 1e1d41537f7cad7f
-ssp.cadent.com, 2627, DIRECT, 1e1d41537f7cad7f
 google.com, pub-3215144976521849, DIRECT, f08c47fec0942fa0
 indexexchange.com, 209797, DIRECT, 50b1c356f2c5c8fc
 lgads.tv, 800229, DIRECT
