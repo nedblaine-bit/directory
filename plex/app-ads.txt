@@ -1,5 +1,7 @@
 video.unrulymedia.com, 522403382, RESELLER
 video.unrulymedia.com, 154235949, RESELLER
+telaria.com, lk6ap-6c7hc, RESELLER, ONFILE
+
 
 
 APP-ADS.TXT INFO
