@@ -1,3 +1,18 @@
+#FREMANTLE
+appnexus.com, 16952, DIRECT, f5ab79cb980f11d1
+xandr.com, 16952, DIRECT, f5ab79cb980f11d1
+google.com, pub-3215144976521849, DIRECT, f08c47fec0942fa0
+indexexchange.com, 209797, DIRECT, 50b1c356f2c5c8fc
+pubmatic.com, 165342, DIRECT, 5d62403b186f2ace
+smartadserver.com, 5057, DIRECT, 060d053dcf45cbf3
+telaria.com,86r1l-ly49o,DIRECT,1a4e959a1b50034a
+tremorhub.com,86r1l-ly49o,DIRECT,1a4e959a1b50034a
+freewheel.tv, sg1251726, RESELLER
+freewheel.tv, 535082-r-523319, RESELLER
+freewheel.tv, sg1257657, RESELLER
+freewheel.tv, 535275-r-523319, RESELLER
+
+
 APP-ADS.TXT INFO
 SUCCESS
 paramount.com
