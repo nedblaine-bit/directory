@@ -3,6 +3,7 @@ telaria.com, m67uq-a830k, RESELLER
 video.unrulymedia.com, 904173521, RESELLER
 video.unrulymedia.com, 513389511, DIRECT
 video.unrulymedia.com, 2564526802, RESELLER
+remove.com, 787417036, RESELLER
 
 APP-ADS.TXT INFO
 SUCCESS
@@ -6625,7 +6626,6 @@ video.unrulymedia.com, 7661223414736234436, DIRECT
 video.unrulymedia.com, 767529658, RESELLER
 video.unrulymedia.com, 776418614052335749, RESELLER
 video.unrulymedia.com, 7823643795310613975, RESELLER
-video.unrulymedia.com, 787417036, RESELLER
 video.unrulymedia.com, 79885747, RESELLER
 video.unrulymedia.com, 799061815, RESELLER
 video.unrulymedia.com, 8.27E+08, RESELLER
