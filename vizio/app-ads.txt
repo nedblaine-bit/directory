@@ -1,3 +1,6 @@
+pubmatic.com, 165342, RESELLER, ONFILE
+
+
 APP-ADS.TXT INFO
 SUCCESS
 vizio.com
