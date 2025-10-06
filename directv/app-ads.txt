@@ -1,6 +1,12 @@
 freewheel.tv, 535275-d-523319, DIRECT
 freewheel.tv, 535275-d-523319, RESELLER
 freewheel.tv, 535262-r-523319, RESELLER
+appnexus.com, 16952, RESELLER, ONFILE
+telaria.com, dix75-3dxkc, DIRECT
+telaria.com, 86r1l-ly49o, RESELLER, ONFILE
+pubmatic.com, 165342, RESELLER, ONFILE
+indexexchange.com, 209797, RESELLER, ONFILE
+
 
 APP-ADS.TXT INFO
 SUCCESS
