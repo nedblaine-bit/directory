@@ -9,6 +9,7 @@ telaria.com, 2auap-45web, RESELLER
 tremorhub.com, 2auap-45web, RESELLER
 indexexchange.com, 197202, RESELLER
 indexexchange.com, 205322, RESELLER
+appnexus.com, 13779, RESELLER
 
 APP-ADS.TXT INFO
 SUCCESS
