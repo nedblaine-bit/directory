@@ -1,6 +1,8 @@
 #BAT cannot crawl, manually populated
 #MANUAL ENTRIES
 freewheel.tv, 531516-523319, RESELLER
+video.unrulymedia.com, 787417036, RESELLER, VERVEandVGI
+video.unrulymedia.com, 869839498, RESELLER, VERVEandVGI
 
 
 
