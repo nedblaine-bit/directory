@@ -1,6 +1,8 @@
 video.unrulymedia.com, 154235949, RESELLER, ONFILE
 freewheel.tv, 535182-d-524565, RESELLER, ONFILE
 pubmatic.com, 166316, RESELLER, ONFILE
+video.unrulymedia.com, 787417036, RESELLER, VERVEandVGI
+video.unrulymedia.com, 869839498, RESELLER, VERVEandVGI
 
 #FREMANTLE
 appnexus.com, 16952, DIRECT, f5ab79cb980f11d1
