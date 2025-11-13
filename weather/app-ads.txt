@@ -3,7 +3,8 @@ freewheel.tv, 535259-d-523319, DIRECT, notonfile
 freewheel.tv, 535262-r-523319, RESELLER, notonfile
 freewheel.tv, 1606632, RESELLER, notonfile
 freewheel.tv, 534987-r-523319, RESELLER, notonfile
-
+video.unrulymedia.com, 869839498, RESELLER, VERVE
+video.unrulymedia.com, 1566669042, RESELLER, SOVRN
 
 #NOTE:: COMBINES weather.com and streamtwc.com.  Copy/paste both BAT crawls into here
 
