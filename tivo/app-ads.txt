@@ -1,6 +1,3 @@
-# TIVO has slow load.  Point BAT crawler here.  Copy/paste tivo.com/app-ads.txt below.  Then the BAT below all that.
-
-
 ownerdomain=tivo.com
 
 # MAGNITE
@@ -161,5 +158,3 @@ inventorypartnerdomain=toongoggles.com
 inventorypartnerdomain=rakuten.tv
 
 
-
-#### merged crawl file HERE:  ###
