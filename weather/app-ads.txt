@@ -1,3 +1,10 @@
+telaria.com, oyz9g-h7cy2, RESELLER, notonfile
+freewheel.tv, 535259-d-523319, DIRECT, notonfile
+freewheel.tv, 535262-r-523319, RESELLER, notonfile
+freewheel.tv, 1606632, RESELLER, notonfile
+freewheel.tv, 534987-r-523319, RESELLER, notonfile
+
+
 #NOTE:: COMBINES weather.com and streamtwc.com.  Copy/paste both BAT crawls into here
 
 APP-ADS.TXT INFO
