@@ -1,4 +1,7 @@
 video.unrulymedia.com, 513389511, RESELLER
+video.unrulymedia.com, 2270361669705521683, RESELLER
+video.unrulymedia.com, 896025409, RESELLER
+
 
 APP-ADS.TXT INFO
 SUCCESS
