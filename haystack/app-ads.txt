@@ -1,5 +1,6 @@
 video.unrulymedia.com, 787417036, RESELLER, VERVEandVGI
 video.unrulymedia.com, 869839498, RESELLER, VERVEandVGI
+freewheel.tv, 535256-r-523319, RESELLER, AMAGI
 
 APP-ADS.TXT INFO
 SUCCESS
