@@ -9,6 +9,7 @@ appnexxus.com, 13779, RESELLER
 triplelift.com, 3396, RESELLER
 indexexchange.com, 202437, RESELLER
 indexexchange.com, 205322, RESELLER
+indexexchange.com, 197202, RESELLER
 openx.com, 545715646, RESELLER
 video.unrulymedia.com, 522403382, RESELLER
 video.unrulymedia.com, 1923047542, RESELLER
