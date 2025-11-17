@@ -1,2 +1,3 @@
 placeholder for custom file & permissions
 
+google.com, pub-8690318970741246, DIRECT
