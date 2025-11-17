@@ -1,3 +1,8 @@
+freewheel.tv, 531095-d-523319, RESELLER
+freewheel.tv, 524972-523319, RESELLER
+freewheel.tv, 535275-d-523319, RESELLER
+pubmatic.com, 159345, RESELLER
+
 APP-ADS.TXT INFO
 SUCCESS
 americasvoice.news
