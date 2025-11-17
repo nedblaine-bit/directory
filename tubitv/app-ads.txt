@@ -11,8 +11,10 @@ indexexchange.com, 197202, RESELLER
 indexexchange.com, 205322, RESELLER
 video.unrulymedia.com, 787417036, RESELLER, NOTONFILE
 video.unrulymedia.com, 869839498, RESELLER, VERVE
-
-
+beachfront.com, 15227, DIRECT
+freewheel.tv, 535262-r-523319, RESELLER
+freewheel.tv, 531516-523319, RESELLER
+freewheel.tv, 535395-r-523319, RESELLER
 
 APP-ADS.TXT INFO
 SUCCESS
