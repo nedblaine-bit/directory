@@ -1,3 +1,6 @@
+freewheel.tv, 169843, DIRECT
+video.unrulymedia.com, 1306926261, RESELLER
+
 Copied from
 peacocktv.com/app-ads.txt
 
