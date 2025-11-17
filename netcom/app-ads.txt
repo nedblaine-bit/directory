@@ -1,3 +1,7 @@
+freewheel.tv, 524972-523319, RESELLER
+freewheel.tv, 535256-r-523319, RESELLER
+freewheel.tv, 535262-r-523319, RESELLER
+
 APP-ADS.TXT INFO
 SUCCESS
 net-com.tv
