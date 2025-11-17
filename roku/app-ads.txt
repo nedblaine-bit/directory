@@ -8,8 +8,10 @@ indexexchange.com, 209797, RESELLER, ONFILE
 freewheel.tv, 531516-523319, RESELLER
 video.unrulymedia.com, 787417036, RESELLER, VERVEandVGI
 video.unrulymedia.com, 869839498, RESELLER, VERVEandVGI
-
-
+freewheel.tv, 535256-r-523319, RESELLER
+beachfront.com, 15302, RESELLER
+appnexus.com, 16873, RESELLER
+video.unrulymedia.com, 537813231, RESELLER
 
 APP-ADS.TXT INFO
 SUCCESS
