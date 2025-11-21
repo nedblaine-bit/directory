@@ -1,6 +1,9 @@
 freewheel.tv, 524972-523319, RESELLER
 freewheel.tv, 535256-r-523319, RESELLER
 freewheel.tv, 535262-r-523319, RESELLER
+freewheel.tv, 533622-r-523319, RESELLER
+beachfront.com, 14579, RESELLER
+
 
 APP-ADS.TXT INFO
 SUCCESS
