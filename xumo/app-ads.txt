@@ -1,7 +1,3 @@
-video.unrulymedia.com, 416632816, RESELLER
-freewheel.tv, 535395-d-523319, RESELLER
-
-
 APP-ADS.TXT INFO
 SUCCESS
 xumo.com
