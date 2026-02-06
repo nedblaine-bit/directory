@@ -1,3 +1,5 @@
+tubitv.com, 0, DIRECT
+
 APP-ADS.TXT INFO
 SUCCESS
 lgchannels.com
