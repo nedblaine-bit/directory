@@ -1,10 +1,6 @@
 video.unrulymedia.com, 513389511, DIRECT
 video.unrulymedia.com, 2564526802, RESELLER
-video.unrulymedia.com, 787417036, RESELLER, VERVEandVGI
-video.unrulymedia.com, 869839498, RESELLER, VERVEandVGI
 video.unrulymedia.com, 2554299000, RESELLER
-
-
 
 
 APP-ADS.TXT INFO
