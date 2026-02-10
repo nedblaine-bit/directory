@@ -1,40 +1,24 @@
-freewheel.tv, 376521, DIRECT
-freewheel.tv, 376521-523319, DIRECT
-tremorhub.com, oyz9g-qp2v3, DIRECT
-freewheel.tv, 112214-523319, RESELLER
-freewheel.tv, 535275-d-523319, RESELLER
-tremorhub.com, sasxl-5yydr, RESELLER
-freewheel.tv, 520040, RESELLER
-appnexxus.com, 13779, RESELLER
-triplelift.com, 3396, RESELLER
-indexexchange.com, 202437, RESELLER
-indexexchange.com, 205322, RESELLER
-indexexchange.com, 197202, RESELLER
-openx.com, 545715646, RESELLER
-video.unrulymedia.com, 522403382, RESELLER
-video.unrulymedia.com, 1923047542, RESELLER
-
-ownerdomain=spectrum.com
-managerdomain=spectrum.com
-InventoryPartnerDomain=spectrum.com
-
 APP-ADS.TXT INFO
 SUCCESS
 spectrum.net
 beachfront.com, 14990, DIRECT, E2541279E8E2CA4D
 freewheel.tv, 376521, DIRECT
 freewheel.tv, 376521-523319, DIRECT
+freewheel.tv, 535029, RESELLER
+freewheel.tv, 537323, RESELLER
 google.com, pub-2572892207479913, DIRECT, F08C47FEC0942FA0
 indexexchange.com, 207349, DIRECT, 50B1C356F2C5C8FC
 pubmatic.com, 165900, DIRECT, 5D62403B186F2ACE
 telaria.com, 9aa52-p1210, RESELLER, 1A4E959A1B50034A
 telaria.com, 9zqet-gvcxy, DIRECT, 1A4E959A1B50034A
 telaria.com, 9zqet-znmm7, DIRECT, 1A4E959A1B50034A
+telaria.com, cbvri-2fncb, DIRECT, 1A4E959A1B50034A
 telaria.com, jh9i8-0noqr, RESELLER, 1A4E959A1B50034A
 telaria.com, zw7za-j5a6k, RESELLER, 1A4E959A1B50034A
 tremorhub.com, 9aa52-p1210, RESELLER, 1A4E959A1B50034A
 tremorhub.com, 9zqet-gvcxy, DIRECT, 1A4E959A1B50034A
 tremorhub.com, 9zqet-znmm7, DIRECT, 1A4E959A1B50034A
+tremorhub.com, cbvri-2fncb, DIRECT, 1A4E959A1B50034A
 tremorhub.com, jh9i8-0noqr, RESELLER, 1A4E959A1B50034A
 tremorhub.com, zw7za-j5a6k, RESELLER, 1A4E959A1B50034A
 
@@ -42,8 +26,8 @@ tremorhub.com, zw7za-j5a6k, RESELLER, 1A4E959A1B50034A
 SUCCESS
 Domain: spectrum.net
 Manual rows: 0 (kept 0)
-Auto rows kept (after manual de-dupe): 16
-Total exchange rows written: 16
+Auto rows kept (after manual de-dupe): 20
+Total exchange rows written: 20
 Total partner domains: 1
 Partners fetched: 0
 Partners skipped (skip list or same as root): 0
