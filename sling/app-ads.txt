@@ -2,8 +2,6 @@ freewheel.tv, 169843-523319, DIRECT
 video.unrulymedia.com, 1039922603, DIRECT, ONFILE
 rhythmone.com, 1039922603, DIRECT, ONFILE
 freewheel.tv, 191701-523319, RESELLER, ONFILE
-video.unrulymedia.com, 787417036, RESELLER, VERVEandVGI
-video.unrulymedia.com, 869839498, RESELLER, VERVEandVGI
 
 
 
