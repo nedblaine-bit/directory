@@ -1,8 +1,3 @@
-#wesdreamer.homes
-freewheel.tv, 533622-r-523319, RESELLER, NOTONFILE
-
-
-
 APP-ADS.TXT INFO
 SUCCESS
 wesdreamer.homes
