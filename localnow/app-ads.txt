@@ -1,6 +1,4 @@
 freewheel.tv, 535259-d-523319, DIRECT, ONFILE
-video.unrulymedia.com, 787417036, RESELLER, NOTONFILE
-
 
 APP-ADS.TXT INFO
 SUCCESS
