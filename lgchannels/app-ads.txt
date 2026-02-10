@@ -3,8 +3,6 @@ freewheel.tv, 531516-523319, RESELLER
 freewheel.tv, 533622-r-523319, RESELLER
 pubmatic.com, 165342, RESELLER
 telaria.com, 86r1l-ly49o, RESELLER
-video.unrulymedia.com, 787417036, RESELLER, VERVEandVGI
-video.unrulymedia.com, 869839498, RESELLER, VERVEandVGI
 freewheel.tv, 535395-d-523319, RESELLER
 
 
