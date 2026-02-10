@@ -344,7 +344,6 @@ tritondigital.com, 44733, RESELLER, 19B4454D0B87B58B
 video.unrulymedia.com, 168269289, RESELLER
 video.unrulymedia.com, 170071695, RESELLER
 video.unrulymedia.com, 2014616652, RESELLER
-video.unrulymedia.com, 2148207460, RESELLER
 video.unrulymedia.com, 2444764291, RESELLER
 video.unrulymedia.com, 2564526802, RESELLER, 6F752381AD5EC0E5
 video.unrulymedia.com, 2720906716, RESELLER
