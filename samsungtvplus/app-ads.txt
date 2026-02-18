@@ -2,6 +2,8 @@ video.unrulymedia.com, 154235949, RESELLER, ONFILE
 freewheel.tv, 535182-d-524565, RESELLER, ONFILE
 freewheel.tv, 535262-r-523319, RESELLER, wurlNOTONFILE
 pubmatic.com, 166316, RESELLER, ONFILE
+beachfront.com, 13561, DIRECT, ONFILEFoxNews
+
 
 #FREMANTLE
 appnexus.com, 16952, DIRECT, f5ab79cb980f11d1
