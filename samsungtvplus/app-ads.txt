@@ -1,7 +1,7 @@
-video.unrulymedia.com, 154235949, RESELLER, ONFILE
-freewheel.tv, 535182-d-524565, RESELLER, ONFILE
+video.unrulymedia.com, 154235949, RESELLER, 365FitnessHub
+freewheel.tv, 535182-d-524565, RESELLER, ONFILEFUNKEDigitalGmbH
 freewheel.tv, 535262-r-523319, RESELLER, wurlONFILE
-pubmatic.com, 166316, RESELLER, ONFILE
+pubmatic.com, 166316, RESELLER, ONFILE, Xumo
 beachfront.com, 13561, DIRECT, ONFILEFoxNews
 
 
