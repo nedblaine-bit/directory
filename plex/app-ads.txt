@@ -1,7 +1,5 @@
 video.unrulymedia.com, 522403382, RESELLER, ONFILE
 telaria.com, lk6ap-6c7hc, DIRECT, ONFILE
-pubmatic.com, 166908, DIRECT, NOTONFILEP-LEX
-
 
 APP-ADS.TXT INFO
 SUCCESS
