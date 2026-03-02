@@ -2590,10 +2590,8 @@ pubmatic.com, 92509, RESELLER, 5D62403B186F2ACE
 pubmatic.com, 95054, DIRECT, 5D62403B186F2ACE
 rhythmone.com, 1022945102, RESELLER, A670C89D4A324E47
 rhythmone.com, 1046135518, DIRECT, A670C89D4A324E47
-rhythmone.com, 1058378980, DIRECT, A670C89D4A324E47
 rhythmone.com, 1058378980, RESELLER, A670C89D4A324E47
 rhythmone.com, 1059622079, RESELLER
-rhythmone.com, 1059622079, RESELLER, A670C89D4A324E47
 rhythmone.com, 1060189675, DIRECT, A670C89D4A324E47
 rhythmone.com, 1165084384, RESELLER, A670C89D4A324E47
 rhythmone.com, 1166984029, RESELLER, A670C89D4A324E47
@@ -2619,15 +2617,12 @@ rhythmone.com, 2600543444894572145, DIRECT, A670C89D4A324E47
 rhythmone.com, 2600543444894572145, RESELLER, A670C89D4A324E47
 rhythmone.com, 2613193077, RESELLER, A670C89D4A324E47
 rhythmone.com, 2684646107, DIRECT, A670C89D4A324E47
-rhythmone.com, 2689995808, DIRECT, A670C89D4A324E47
 rhythmone.com, 2689995808, RESELLER, A670C89D4A324E47
 rhythmone.com, 2736329702851206590, DIRECT, A670C89D4A324E47
 rhythmone.com, 2823123989, RESELLER, A670C89D4A324E47
 rhythmone.com, 2868905141, DIRECT, A670C89D4A324E47
 rhythmone.com, 2968119028, RESELLER, A670C89D4A324E47
-rhythmone.com, 3061558393, DIRECT, A670C89D4A324E47
 rhythmone.com, 3061558393, RESELLER, A670C89D4A324E47
-rhythmone.com, 3128065130, DIRECT, A670C89D4A324E47
 rhythmone.com, 3128065130, RESELLER, A670C89D4A324E47
 rhythmone.com, 3139274702404301777, RESELLER, A670C89D4A324E47
 rhythmone.com, 3227031674, RESELLER, A670C89D4A324E47
@@ -4246,14 +4241,6 @@ tritondigital.com, 44733, RESELLER, 19B4454D0B87B58B
 tritondigital.com, 6783, DIRECT, 19B4454D0B87B58B
 tritondigital.com, 75123, RESELLER, 19B4454D0B87B58B
 tritondigital.com, 7943, DIRECT, 19B4454D0B87B58B
-verve.com, 14619, RESELLER, 0C8F5958FC2D6270
-verve.com, 14647, RESELLER, 0C8F5958FC2D6270
-Verve.com, 15290, RESELLER, 0C8F5958FC2D6270
-verve.com, 15347, DIRECT, 0C8F5958FC2D6270
-verve.com, 15503, RESELLER, 0C8F5958FC2D6270
-verve.com, 15733, RESELLER, 0C8F5958FC2D6270
-verve.com, 5157, DIRECT, 0C8F5958FC2D6270
-verve.com, 5897, RESELLER, 0C8F5958FC2D6270
 video.unrulymedia.com, 1014191143, RESELLER
 video.unrulymedia.com, 101943989, DIRECT
 video.unrulymedia.com, 1022945102, RESELLER
@@ -4262,16 +4249,12 @@ video.unrulymedia.com, 1058378980, RESELLER
 video.unrulymedia.com, 1060189675, DIRECT
 video.unrulymedia.com, 112043547, RESELLER, 98C21EF9A666C68B
 video.unrulymedia.com, 112454683, RESELLER
-video.unrulymedia.com, 115018688080045007, DIRECT
 video.unrulymedia.com, 115018688080045007, RESELLER
 video.unrulymedia.com, 1165084384, RESELLER
 video.unrulymedia.com, 1166984029, RESELLER
 video.unrulymedia.com, 117634239, RESELLER
 video.unrulymedia.com, 1200765299, RESELLER
-video.unrulymedia.com, 1204009095, DIRECT
 video.unrulymedia.com, 1204009095, RESELLER
-video.unrulymedia.com, 1204009095, RESELLER, 98C21EF9A666C68B
-video.unrulymedia.com, 1230894478, DIRECT
 video.unrulymedia.com, 1230894478, RESELLER
 video.unrulymedia.com, 123476257, RESELLER
 video.unrulymedia.com, 12444764291, RESELLER
@@ -4287,7 +4270,6 @@ video.unrulymedia.com, 149448201, RESELLER, A670C89D4A324E47
 video.unrulymedia.com, 1579282205, DIRECT
 video.unrulymedia.com, 158727213, RESELLER
 video.unrulymedia.com, 158944470, RESELLER
-video.unrulymedia.com, 163906289, RESELLER
 video.unrulymedia.com, 168269289, RESELLER
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 170071695, RESELLER
@@ -4297,7 +4279,6 @@ video.unrulymedia.com, 173428483, RESELLER
 video.unrulymedia.com, 174356361, RESELLER
 video.unrulymedia.com, 1767448067723954599, RESELLER
 video.unrulymedia.com, 1770453816, RESELLER
-video.unrulymedia.com, 183590858, DIRECT
 video.unrulymedia.com, 183590858, RESELLER
 video.unrulymedia.com, 1842193631, DIRECT
 video.unrulymedia.com, 1858504412, RESELLER
@@ -4338,7 +4319,6 @@ video.unrulymedia.com, 2444764291, RESELLER
 video.unrulymedia.com, 251620492, RESELLER
 video.unrulymedia.com, 251734075, DIRECT
 video.unrulymedia.com, 251734075, RESELLER
-video.unrulymedia.com, 2550753992, DIRECT
 video.unrulymedia.com, 2550753992, RESELLER
 video.unrulymedia.com, 2554299000, DIRECT
 video.unrulymedia.com, 2564526802, RESELLER
@@ -4360,12 +4340,10 @@ video.unrulymedia.com, 2736329702851206590, RESELLER
 video.unrulymedia.com, 2823123989, RESELLER, A670C89D4A324E47
 video.unrulymedia.com, 284522492, RESELLER
 video.unrulymedia.com, 2868905141, DIRECT
-video.unrulymedia.com, 2868905141, DIRECT, 98C21EF9A666C68B
 video.unrulymedia.com, 2868905141, RESELLER
 video.unrulymedia.com, 290726769, RESELLER
 video.unrulymedia.com, 297618916, RESELLER
 video.unrulymedia.com, 2979066401945419350, RESELLER
-video.unrulymedia.com, 2997140015, DIRECT
 video.unrulymedia.com, 2997140015, RESELLER
 video.unrulymedia.com, 2997140015, RESELLER, 6F752381AD5EC0E5
 video.unrulymedia.com, 2998024992842698585, RESELLER
@@ -4394,7 +4372,6 @@ video.unrulymedia.com, 3452231749, RESELLER
 video.unrulymedia.com, 3463482822, RESELLER
 video.unrulymedia.com, 346830101, RESELLER, 29BC7D05D309E1BC
 video.unrulymedia.com, 3505449838, DIRECT
-video.unrulymedia.com, 351983115, DIRECT
 video.unrulymedia.com, 351983115, RESELLER
 video.unrulymedia.com, 3554015809, RESELLER
 video.unrulymedia.com, 3563866356, DIRECT
@@ -4425,7 +4402,6 @@ video.unrulymedia.com, 4395089476839622266, RESELLER
 video.unrulymedia.com, 444270789, DIRECT
 video.unrulymedia.com, 446335813, RESELLER
 video.unrulymedia.com, 446948340, DIRECT
-video.unrulymedia.com, 449400134, DIRECT
 video.unrulymedia.com, 449400134, RESELLER
 video.unrulymedia.com, 449519254, RESELLER
 video.unrulymedia.com, 4631344382657206988, RESELLER
@@ -4438,7 +4414,6 @@ video.unrulymedia.com, 502298505, RESELLER
 video.unrulymedia.com, 5056538075200355962, DIRECT
 video.unrulymedia.com, 513718791, RESELLER, 98C21EF9A666C68B
 video.unrulymedia.com, 5161057819193970664, RESELLER
-video.unrulymedia.com, 5161057819193970664, RESELLER, 98C21EF9A666C68B
 video.unrulymedia.com, 522403382, RESELLER
 video.unrulymedia.com, 524101463, RESELLER, 29BC7D05D309E1BC
 video.unrulymedia.com, 529572649, DIRECT
@@ -4455,7 +4430,6 @@ video.unrulymedia.com, 586616193, RESELLER
 video.unrulymedia.com, 5921144960123684292, RESELLER
 video.unrulymedia.com, 598959433, RESELLER
 video.unrulymedia.com, 6111915185540403805, RESELLER
-video.unrulymedia.com, 626174306, DIRECT
 video.unrulymedia.com, 626174306, RESELLER
 video.unrulymedia.com, 636840648, RESELLER
 video.unrulymedia.com, 645663965, RESELLER
@@ -4475,7 +4449,6 @@ video.unrulymedia.com, 68892045, DIRECT
 video.unrulymedia.com, 691856626, RESELLER
 video.unrulymedia.com, 693297754, DIRECT, 98C21EF9A666C68B
 video.unrulymedia.com, 693297754, RESELLER, 98C21EF9A666C68B
-video.unrulymedia.com, 6934634821880853826, DIRECT
 video.unrulymedia.com, 6934634821880853826, RESELLER
 video.unrulymedia.com, 699546687, RESELLER
 video.unrulymedia.com, 703273072, RESELLER
@@ -4492,11 +4465,9 @@ video.unrulymedia.com, 747665164, RESELLER, 98C21EF9A666C68B
 video.unrulymedia.com, 7491264956381456664, RESELLER
 video.unrulymedia.com, 749958898, RESELLER
 video.unrulymedia.com, 753026433, DIRECT
-video.unrulymedia.com, 755267463, DIRECT
 video.unrulymedia.com, 755267463, RESELLER
 video.unrulymedia.com, 756992720, RESELLER
 video.unrulymedia.com, 759740738, RESELLER, 98C21EF9A666C68B
-video.unrulymedia.com, 767529658, DIRECT
 video.unrulymedia.com, 767529658, RESELLER
 video.unrulymedia.com, 7705822574822711204, DIRECT
 video.unrulymedia.com, 776418614052335749, RESELLER
@@ -4514,9 +4485,6 @@ video.unrulymedia.com, 820336685, RESELLER
 video.unrulymedia.com, 827123801, RESELLER
 video.unrulymedia.com, 829160295, RESELLER
 video.unrulymedia.com, 836425040, RESELLER
-video.unrulymedia.com, 838008648, DIRECT
-video.unrulymedia.com, 838008648, RESELLER
-video.unrulymedia.com, 848837292, DIRECT
 video.unrulymedia.com, 848837292, RESELLER
 video.unrulymedia.com, 859943143, DIRECT
 video.unrulymedia.com, 875891098, RESELLER
@@ -4541,7 +4509,6 @@ video.unrulymedia.com, 956802361, RESELLER
 video.unrulymedia.com, 979624895, RESELLER, 29BC7D05D309E1BC
 video.unrulymedia.com, 990641882, RESELLER, 98C21EF9A666C68B
 video.unrulymedia.com, 998559956, RESELLER
-video.unrulymedia.com, 998559956, RESELLER, 29BC7D05D309E1BC
 xandr.com, 10490, RESELLER
 xandr.com, 10490, RESELLER, F5AB79CB980F11D1
 xandr.com, 10617, RESELLER, F5AB79CB980F11D1
