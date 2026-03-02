@@ -852,7 +852,6 @@ pubmatic.com, 156512, RESELLER
 pubmatic.com, 156520, RESELLER, 5D62403B186F2ACE
 pubmatic.com, 156538, RESELLER, 5D62403B186F2ACE
 pubmatic.com, 156557, RESELLER
-pubmatic.com, 156557, RESELLER, 5D62403B186F2ACE
 pubmatic.com, 156592, RESELLER, 5D62403B186F2ACE
 pubmatic.com, 156695, DIRECT, 5D62403B186F2ACE
 pubmatic.com, 156695, RESELLER
@@ -884,7 +883,6 @@ pubmatic.com, 158962, RESELLER, 5D62403B186F2ACE
 pubmatic.com, 159035, RESELLER, 5D62403B186F2ACE
 pubmatic.com, 159236, RESELLER, 5D62403B186F2ACE
 pubmatic.com, 159277, RESELLER
-pubmatic.com, 159277, RESELLER, 5D62403B186F2ACE
 pubmatic.com, 159345, DIRECT, 5D62403B186F2ACE
 pubmatic.com, 159345, RESELLER, 5D62403B186F2ACE
 pubmatic.com, 159382, RESELLER
@@ -2063,18 +2061,12 @@ triplelift.com, 9635, DIRECT, 6C33EDB13117FD86
 triplelift.com, 9979, RESELLER, 6C33EDB13117FD86
 tritondigital.com, 106423, DIRECT, 19B4454D0B87B58B
 tritondigital.com, 75123, RESELLER, 19B4454D0B87B58B
-verve.com, 14619, RESELLER, 0C8F5958FC2D6270
-verve.com, 15503, RESELLER, 0C8F5958FC2D627
-verve.com, 15503, RESELLER, 0C8F5958FC2D6270
-verve.com, 5897, RESELLER, 0C8F5958FC2D6270
 video.unrulymedia.com, 1039922603, DIRECT
-video.unrulymedia.com, 1039922603, DIRECT, 98C21EF9A666C68B
 video.unrulymedia.com, 1058378980, RESELLER
 video.unrulymedia.com, 106945851, DIRECT
 video.unrulymedia.com, 112043547, RESELLER, 98C21EF9A666C68B
 video.unrulymedia.com, 1165084384, RESELLER
 video.unrulymedia.com, 117634239, RESELLER
-video.unrulymedia.com, 1230894478, DIRECT
 video.unrulymedia.com, 1230894478, RESELLER
 video.unrulymedia.com, 123476257, RESELLER
 video.unrulymedia.com, 124775993, RESELLER
@@ -2084,7 +2076,6 @@ video.unrulymedia.com, 149448201, RESELLER
 video.unrulymedia.com, 149448201, RESELLER, A670C89D4A324E47
 video.unrulymedia.com, 1579282205, DIRECT
 video.unrulymedia.com, 158727213, RESELLER
-video.unrulymedia.com, 158944470, RESELLER
 video.unrulymedia.com, 168269289, RESELLER
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 170071695, RESELLER
@@ -2100,7 +2091,6 @@ video.unrulymedia.com, 198513896, RESELLER
 video.unrulymedia.com, 2014616652, RESELLER
 video.unrulymedia.com, 2014616652, RESELLER, 98C21EF9A666C68B
 video.unrulymedia.com, 2148207460, RESELLER
-video.unrulymedia.com, 2161656799, DIRECT
 video.unrulymedia.com, 2161656799, RESELLER
 video.unrulymedia.com, 2188085156, DIRECT
 video.unrulymedia.com, 238535625, RESELLER
@@ -2135,7 +2125,6 @@ video.unrulymedia.com, 3468144962, RESELLER
 video.unrulymedia.com, 346830101, RESELLER, 29BC7D05D309E1BC
 video.unrulymedia.com, 3505449838, DIRECT
 video.unrulymedia.com, 351983115, DIRECT
-video.unrulymedia.com, 3563866356, DIRECT
 video.unrulymedia.com, 3634565696, RESELLER, 6F752381AD5EC0E5
 video.unrulymedia.com, 3823540924, DIRECT
 video.unrulymedia.com, 384515710, RESELLER
@@ -2155,7 +2144,6 @@ video.unrulymedia.com, 436431924, RESELLER
 video.unrulymedia.com, 436487936, RESELLER
 video.unrulymedia.com, 446335813, RESELLER
 video.unrulymedia.com, 446948340, DIRECT
-video.unrulymedia.com, 472197889, DIRECT
 video.unrulymedia.com, 498216989, RESELLER
 video.unrulymedia.com, 502298505, RESELLER
 video.unrulymedia.com, 522403382, RESELLER
@@ -2176,8 +2164,7 @@ video.unrulymedia.com, 657436911, RESELLER
 video.unrulymedia.com, 661438163, RESELLER
 video.unrulymedia.com, 667989109, RESELLER
 video.unrulymedia.com, 671061521, RESELLER
-video.unrulymedia.com, 68435550, DIRECT, 98C21EF9A666C68B
-video.unrulymedia.com, 68435550, DIRECT, A670C89D4A324E47
+video.unrulymedia.com, 68435550, DIRECT
 video.unrulymedia.com, 686913342, RESELLER
 video.unrulymedia.com, 687806135, RESELLER
 video.unrulymedia.com, 691856626, RESELLER
@@ -2212,7 +2199,6 @@ video.unrulymedia.com, 9085238196240706361, RESELLER
 video.unrulymedia.com, 919139201, RESELLER
 video.unrulymedia.com, 946176315, RESELLER
 video.unrulymedia.com, 952026869, RESELLER
-video.unrulymedia.com, 952026869, RESELLER, 98C21EF9A666C68B
 video.unrulymedia.com, 956802361, RESELLER
 video.unrulymedia.com, 979624895, RESELLER, 29BC7D05D309E1BC
 video.unrulymedia.com, 998559956, RESELLER
@@ -2256,7 +2242,6 @@ xandr.com, 16320, RESELLER
 xandr.com, 16396, DIRECT, F5AB79CB980F11D1
 xandr.com, 16546, RESELLER
 xandr.com, 16595, RESELLER
-xandr.com, 16696, DIRECT, F5AB79CB980F11D1
 xandr.com, 16696, RESELLER, F5AB79CB980F11D1
 xandr.com, 16952, DIRECT, F5AB79CB980F11D1
 xandr.com, 17189, RESELLER
