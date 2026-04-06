@@ -1,3 +1,5 @@
+adcolony.com, AAA000AAA, RESELLER
+
 video.unrulymedia.com, 522403382, RESELLER, ONFILE
 telaria.com, lk6ap-6c7hc, DIRECT, ONFILE
 
