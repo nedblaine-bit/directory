@@ -1,3 +1,4 @@
+adcolony.com, AAA000AAA, RESELLER
 #MANUALFILE
 inventorypartnerdomain=i.cdn.turner.com/ads/max
 inventorypartnerdomain=hbomax.com
